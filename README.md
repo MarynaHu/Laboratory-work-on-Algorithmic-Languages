@@ -7,6 +7,6 @@ python -m venv .venv
 pip install -r requirements.txt
 
 # Command to run the program
-python ./Lab1.py.py
+python ./Lab1.py
 
 # The program prints six sections (A–F), each demonstrating a specific concept: binding, mutation, argument passing, default arguments, copy semantics, and reference counting behavior.
