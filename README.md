@@ -17,10 +17,6 @@ python -m venv .venv
 .venv\Scripts\activate  
 pip install -r requirements.txt
 ```
-Setting requirements.txt (not necessary, because it is empty :)):
-```
-pip install -r requirements.txt
-```
 Сommand to run the program:  
 ```
 python ./Lab2.py
