@@ -1,13 +1,13 @@
 ## LAB04: Higher-Order Functions, map/filter, Decorators
 
 The goal of this lab is to practice using higher-order functions and to understand how functions can be used to 
-transform behavior. Demonstrate understanding of:
-► higher-order functions (functions as arguments and return values) 
-► functional transformations using map and filter
-► differences between map/filter and comprehensions 
-► decorators and how they modify function behavior 
-► decorators with arguments 
-► basic caching techniques using decorators 
+transform behavior. Demonstrate understanding of:  
+► higher-order functions (functions as arguments and return values)  
+► functional transformations using map and filter  
+► differences between map/filter and comprehensions   
+► decorators and how they modify function behavior   
+► decorators with arguments   
+► basic caching techniques using decorators   
 
 ### Python version used
 Python 3.14+
