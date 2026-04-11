@@ -93,7 +93,7 @@ except TypeError as e:
 #Task G — Sorting
 print("\n-----Task G — Sorting-----\n")
 
-students = [ student, student_3, Student("Jhon Doe", "Group-1", 84.3)]
+students = [ student, student_3, Student("John Doe", "Group-1", 84.3)]
 
 print(" Before sorting: ")
 
