@@ -1,3 +1,10 @@
-## Here are the laboratory works for the subject Algorithmic Languages ​​2026
+# Report Tool
 
-Each lab is in a separate branch
+Some tool for reports.
+
+Run:
+python report_tool/run.py
+
+It should work.
+
+Maybe install requirements if needed.
