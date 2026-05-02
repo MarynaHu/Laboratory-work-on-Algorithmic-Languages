@@ -1,3 +1,0 @@
-# The project uses only the standard Python library:
-# argparse, pathlib, json, logging.
-# No third-party dependencies.
